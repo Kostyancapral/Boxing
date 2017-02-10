@@ -115,6 +115,7 @@ namespace Box
                 Console.WriteLine("Выноливость противника= " + Comp.hp);
                 Console.ReadLine();
             }
+            if (Pl.hp == 0 || Comp.hp == 0) Console.WriteLine("Из последних сил вы обменялись ударами и одновременно потеряли сознание");
             if (Pl.hp == 0) Console.WriteLine("Вы проиграли");
             else Console.WriteLine("Противник в нокауте");
             Console.ReadLine();
