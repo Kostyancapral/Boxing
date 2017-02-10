@@ -1,0 +1,6 @@
+D:\Учёба\Практика\Бокс\Бокс\bin\Debug\Бокс.exe.config
+D:\Учёба\Практика\Бокс\Бокс\bin\Debug\Бокс.exe
+D:\Учёба\Практика\Бокс\Бокс\bin\Debug\Бокс.pdb
+D:\Учёба\Практика\Бокс\Бокс\obj\Debug\Бокс.csprojResolveAssemblyReference.cache
+D:\Учёба\Практика\Бокс\Бокс\obj\Debug\Бокс.exe
+D:\Учёба\Практика\Бокс\Бокс\obj\Debug\Бокс.pdb
